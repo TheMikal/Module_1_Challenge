@@ -5,7 +5,7 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation? 
-- I wanted to clean up the code for this website to help it with being more easily found when using search engines
+- I wanted to clean up the code for this website to help it with being more easily found when using search engines and be more accessible
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.") 
 - To help a struggling website fix little issues they may not have seen
 - What problem does it solve? 
